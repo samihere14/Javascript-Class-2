@@ -103,4 +103,33 @@ setTimeout(function() {
 document.write("<br/>The cost of buying " + numTickets + " tickets to a movie is: " + totalCost);}, 5000);
 
 
+// 5. Write a script to display multiplication table of any number in your browser.
+
+
+var number = 14;
+
+var result1 = number * 1;
+var result2 = number * 2;
+var result3 = number * 3;
+var result4 = number * 4;
+var result5 = number * 5;
+var result6 = number * 6;
+var result7 = number * 7;
+var result8 = number * 8;
+var result9 = number * 9;
+var result10 = number * 10;
+
+
+console.log("{number} * 1 = {result1}");
+console.log("{number} * 2 = {result2}");
+console.log("{number} * 3 = {result3}");
+console.log("{number} * 4 = {result4}");
+console.log("{number} * 5 = {result5}");
+console.log("{number} * 6 = {result6}");
+console.log("{number} * 7 = {result7}");
+console.log("{number} * 8 = {result8}");
+console.log("{number} * 9 = {result9}");
+console.log("{number} * 10 = {result10}");
+
+
 
